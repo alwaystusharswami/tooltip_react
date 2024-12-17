@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Tooltip.css"; // Create a separate CSS file for styling
+import "./Tooltip.css"; 
 
 // eslint-disable-next-line react/prop-types
 const Tooltip = ({ position }) => {
